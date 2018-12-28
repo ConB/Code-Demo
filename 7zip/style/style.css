@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    padding: 0;
+    /* width:960px; width:  cố định. k repe */
+    margin: 0 auto;
+    border: 1px solid red;
+}
+#content {
+    padding: 50px 300px;
+}
+/* .row{
+    padding: 0px 50px;
+} */
+/* .row, .form-group,.checkbox{
+    margin: 0;
+    padding: 0px 10px;
+} */
+/* .btn-danger{
+    padding: 6px 0px;
+}
+.col-xs-7{
+    /* line-height: 14px; */
+    /* padding: 7px;
+} */ *
+.help-text-red{
+    color: red;
+}
+.form{
+    border:1px solid red;
+}
+/* .form-control{
+    border:1px solid red;
+} */
+#exampleInputPassword1{
+    border: 1px solid red;
+}
+#margin{
+    margin-left: 15px;
+    background: red;
+    color: white;
+}
+a:hover{
+    text-decoration: none;
+    color:blue;
+}
+#margin:hover{
+    color:blue;
+}
+#colom{
+    line-height: 34px;
+}
